@@ -59,7 +59,7 @@ const Home = () => {
             <div className="image-container">
               <div className="image-ring"></div>
               <div className="profile-image">
-                <img src="../public/DP.jpeg" alt="Devraj Bhore" className="profile-photo" />
+                <img src="/DP.jpeg" alt="Devraj Bhore" className="profile-photo" />
               </div>
               <div className="image-decoration"></div>
               <div className="stat-card stat-card-1">
