@@ -18,7 +18,7 @@ const Home = () => {
             </div>
             <h1>Devraj Bhore</h1>
             <h2>
-              Aspiring Software Engineer
+              Aspiring Software Engineer| Machine Learning Enthusiast | Building Scalable Solutions
               <span className="cursor-blink"></span>
             </h2>
             <p>
