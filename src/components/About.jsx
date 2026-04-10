@@ -53,7 +53,7 @@ const About = () => {
               <p>Building impactful products with AI, data, and modern web engineering.</p>
             </div>
             <div className="experience-badge">
-              <span className="number">3+</span>
+              <span className="number">3</span>
               <span className="label">Projects Shipped</span>
             </div>
           </div>
